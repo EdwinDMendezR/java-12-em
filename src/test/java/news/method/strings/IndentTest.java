@@ -2,7 +2,7 @@ package news.method.strings;
 
 import org.junit.jupiter.api.Test;
 
-public class StringClassNewMethodsTest {
+public class IndentTest {
 
     @Test
     public void indenTest() {
